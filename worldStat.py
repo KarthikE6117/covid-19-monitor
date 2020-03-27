@@ -14,7 +14,7 @@ try:
 
         headers = {
             'x-rapidapi-host' : 'coronavirus-monitor.p.rapidapi.com',
-            'x-rapidapi-key' : 'ddfc5ca9c9msh9a8091e34ab4f90p1b0400jsn38a5d60a03d7'                  # fetch your key before execution
+            'x-rapidapi-key' : 'YOUR API KEY'                  # fetch your key before execution
         }
         print("COVID-19 Monitor Initiated - STAMP : "+ str(datetime.datetime.now()))
         phpList = ["affected.php", "cases_by_particular_country", "worldstat.php", "latest_stat_by_country.php"]  #available endpoints... for further development 
