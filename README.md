@@ -8,7 +8,7 @@ Public commits are always appriciated. If so ping me!
 
 In order to use this script, first you have to sign up your free account in https://rapidapi.com/
 
-Then head to this link and copy your API key which is present in a field named "X-RapidAPI-Key".
+Then head to this link https://rapidapi.com/astsiatsko/api/coronavirus-monitor and copy your API key which is present in a field named "X-RapidAPI-Key".
 
 Then paste your key in line 17 of worldStat.py and proceed firing up the script.
 
